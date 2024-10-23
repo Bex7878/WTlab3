@@ -1,0 +1,16 @@
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+.sentence {
+    display: block;
+    margin-bottom: 10px;
+}
+#paragraph {
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+#wordCount {
+    margin-top: 15px;
+}
